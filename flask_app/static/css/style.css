@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #85FFBD;
+    background-image: linear-gradient(45deg, #85FFBD 12%, #FFFB7D 100%);
+    ;
+}
+
+.selector {
+    width: 369px;
+    margin-left: 12px;
+}
+
+.textarea {
+    resize: none
+}
+
+.result {
+    height: 290px;
+}
+
+.ancla:hover {
+    text-decoration: underline !important;
+}
